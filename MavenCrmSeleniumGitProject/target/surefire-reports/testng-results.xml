@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[read test data from excel]]>
+    </line>
+    <line>
+      <![CDATA[navigate to contacts page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create contact page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to save]]>
+    </line>
+    <line>
+      <![CDATA[capture actuval contact name]]>
+    </line>
+    <line>
+      <![CDATA[verifying contact name]]>
+    </line>
+    <line>
+      <![CDATA[read test data from excel]]>
+    </line>
+    <line>
+      <![CDATA[navigate to contacts page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create contact page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to save]]>
+    </line>
+    <line>
+      <![CDATA[capture the data from contactInformation page]]>
+    </line>
+    <line>
+      <![CDATA[verifying contact name]]>
+    </line>
+    <line>
+      <![CDATA[verifying image]]>
+    </line>
+    <line>
+      <![CDATA[read test data from excel]]>
+    </line>
+    <line>
+      <![CDATA[navigate to organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to save]]>
+    </line>
+    <line>
+      <![CDATA[navigate to contacts page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create contact page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to save]]>
+    </line>
+    <line>
+      <![CDATA[capture the data from contactInformation page]]>
+    </line>
+    <line>
+      <![CDATA[verifying contact name]]>
+    </line>
+    <line>
+      <![CDATA[verifying Organization name]]>
+    </line>
+    <line>
+      <![CDATA[read test data from excel]]>
+    </line>
+    <line>
+      <![CDATA[navigate to organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to save]]>
+    </line>
+    <line>
+      <![CDATA[navigate to more page]]>
+    </line>
+    <line>
+      <![CDATA[navigate campaign page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create campaign]]>
+    </line>
+    <line>
+      <![CDATA[navigate to Opportunities name]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create opportunities name]]>
+    </line>
+    <line>
+      <![CDATA[navigate to opportunities information page]]>
+    </line>
+    <line>
+      <![CDATA[verifying organization name]]>
+    </line>
+    <line>
+      <![CDATA[verifying Campaign name]]>
+    </line>
+    <line>
+      <![CDATA[verifying Opportunities name]]>
+    </line>
+    <line>
+      <![CDATA[read test data from excel]]>
+    </line>
+    <line>
+      <![CDATA[navigate to organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to save]]>
+    </line>
+    <line>
+      <![CDATA[navigate to contact page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create new contact page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to save]]>
+    </line>
+    <line>
+      <![CDATA[navigate to opportunity page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create new opportunity page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to save with organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to organization page for delete]]>
+    </line>
+    <line>
+      <![CDATA[navigate to search organization]]>
+    </line>
+    <line>
+      <![CDATA[navigate to click on organization name]]>
+    </line>
+    <line>
+      <![CDATA[navigate to organization information page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to contact page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to search contact name]]>
+    </line>
+    <line>
+      <![CDATA[navigate to click on contact name]]>
+    </line>
+    <line>
+      <![CDATA[navigate to contact information page]]>
+    </line>
+    <line>
+      <![CDATA[veritying organization name in contacts]]>
+    </line>
+    <line>
+      <![CDATA[navigate to opportunity page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to search opportunity name]]>
+    </line>
+    <line>
+      <![CDATA[navigate to verity opportunity name]]>
+    </line>
+    <line>
+      <![CDATA[verifying opportunity name]]>
+    </line>
+    <line>
+      <![CDATA[read test data from excel]]>
+    </line>
+    <line>
+      <![CDATA[navigate to organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to save]]>
+    </line>
+    <line>
+      <![CDATA[navigate to organization information]]>
+    </line>
+    <line>
+      <![CDATA[verifying organization name]]>
+    </line>
+    <line>
+      <![CDATA[read test data from excel]]>
+    </line>
+    <line>
+      <![CDATA[navigate to organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to create organization page]]>
+    </line>
+    <line>
+      <![CDATA[navigate to save]]>
+    </line>
+    <line>
+      <![CDATA[navigate to organization information]]>
+    </line>
+    <line>
+      <![CDATA[verifying org name]]>
+    </line>
+    <line>
+      <![CDATA[verifying org type]]>
+    </line>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="197677" started-at="2018-03-06T10:53:41Z" finished-at="2018-03-06T10:56:59Z">
+    <groups>
+      <group name="SmokeTest">
+        <method signature="ContactTest.createContactTest()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="createContactTest" class="com.crm.contacttest.ContactTest"/>
+        <method signature="OrganizationTest.createOrganizationTest()[pri:0, instance:com.crm.organizationtest.OrganizationTest@13c78c0b]" name="createOrganizationTest" class="com.crm.organizationtest.OrganizationTest"/>
+      </group> <!-- SmokeTest -->
+      <group name="RegressionTest">
+        <method signature="ContactTest.createContactWithImageTest()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="createContactWithImageTest" class="com.crm.contacttest.ContactTest"/>
+        <method signature="ContactTest.createContactWithOrganizationTest()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="createContactWithOrganizationTest" class="com.crm.contacttest.ContactTest"/>
+        <method signature="EndToEndTest.createOpertunityUsingOrgCompaignTest()[pri:0, instance:com.crm.endtoendtest.EndToEndTest@2cb4c3ab]" name="createOpertunityUsingOrgCompaignTest" class="com.crm.endtoendtest.EndToEndTest"/>
+        <method signature="EndToEndTest.deleteOrgWhenOrgContainsContact_OpertunityTest()[pri:0, instance:com.crm.endtoendtest.EndToEndTest@2cb4c3ab]" name="deleteOrgWhenOrgContainsContact_OpertunityTest" class="com.crm.endtoendtest.EndToEndTest"/>
+        <method signature="OrganizationTest.createOrganizationWithOrganizationTypeTest()[pri:0, instance:com.crm.organizationtest.OrganizationTest@13c78c0b]" name="createOrganizationWithOrganizationTypeTest" class="com.crm.organizationtest.OrganizationTest"/>
+      </group> <!-- RegressionTest -->
+    </groups>
+    <test name="Command line test" duration-ms="197677" started-at="2018-03-06T10:53:41Z" finished-at="2018-03-06T10:56:59Z">
+      <class name="com.crm.endtoendtest.EndToEndTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.crm.endtoendtest.EndToEndTest@2cb4c3ab]" name="configBC" is-config="true" duration-ms="4310" started-at="2018-03-06T16:24:37Z" finished-at="2018-03-06T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.endtoendtest.EndToEndTest@2cb4c3ab]" name="configBM" is-config="true" duration-ms="2818" started-at="2018-03-06T16:24:42Z" finished-at="2018-03-06T16:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createOpertunityUsingOrgCompaignTest()[pri:0, instance:com.crm.endtoendtest.EndToEndTest@2cb4c3ab]" name="createOpertunityUsingOrgCompaignTest" duration-ms="28088" started-at="2018-03-06T16:24:45Z" finished-at="2018-03-06T16:25:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[read test data from excel]]>
+            </line>
+            <line>
+              <![CDATA[navigate to organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to save]]>
+            </line>
+            <line>
+              <![CDATA[navigate to more page]]>
+            </line>
+            <line>
+              <![CDATA[navigate campaign page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create campaign]]>
+            </line>
+            <line>
+              <![CDATA[navigate to Opportunities name]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create opportunities name]]>
+            </line>
+            <line>
+              <![CDATA[navigate to opportunities information page]]>
+            </line>
+            <line>
+              <![CDATA[verifying organization name]]>
+            </line>
+            <line>
+              <![CDATA[verifying Campaign name]]>
+            </line>
+            <line>
+              <![CDATA[verifying Opportunities name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOpertunityUsingOrgCompaignTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.endtoendtest.EndToEndTest@2cb4c3ab]" name="configAM" is-config="true" duration-ms="1271" started-at="2018-03-06T16:25:13Z" finished-at="2018-03-06T16:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.endtoendtest.EndToEndTest@2cb4c3ab]" name="configBM" is-config="true" duration-ms="2203" started-at="2018-03-06T16:25:14Z" finished-at="2018-03-06T16:25:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="deleteOrgWhenOrgContainsContact_OpertunityTest()[pri:0, instance:com.crm.endtoendtest.EndToEndTest@2cb4c3ab]" name="deleteOrgWhenOrgContainsContact_OpertunityTest" duration-ms="64889" started-at="2018-03-06T16:25:16Z" finished-at="2018-03-06T16:26:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[read test data from excel]]>
+            </line>
+            <line>
+              <![CDATA[navigate to organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to save]]>
+            </line>
+            <line>
+              <![CDATA[navigate to contact page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create new contact page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to save]]>
+            </line>
+            <line>
+              <![CDATA[navigate to opportunity page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create new opportunity page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to save with organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to organization page for delete]]>
+            </line>
+            <line>
+              <![CDATA[navigate to search organization]]>
+            </line>
+            <line>
+              <![CDATA[navigate to click on organization name]]>
+            </line>
+            <line>
+              <![CDATA[navigate to organization information page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to contact page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to search contact name]]>
+            </line>
+            <line>
+              <![CDATA[navigate to click on contact name]]>
+            </line>
+            <line>
+              <![CDATA[navigate to contact information page]]>
+            </line>
+            <line>
+              <![CDATA[veritying organization name in contacts]]>
+            </line>
+            <line>
+              <![CDATA[navigate to opportunity page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to search opportunity name]]>
+            </line>
+            <line>
+              <![CDATA[navigate to verity opportunity name]]>
+            </line>
+            <line>
+              <![CDATA[verifying opportunity name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteOrgWhenOrgContainsContact_OpertunityTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.endtoendtest.EndToEndTest@2cb4c3ab]" name="configAM" is-config="true" duration-ms="1385" started-at="2018-03-06T16:26:21Z" finished-at="2018-03-06T16:26:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.crm.endtoendtest.EndToEndTest@2cb4c3ab]" name="configAC" is-config="true" duration-ms="116" started-at="2018-03-06T16:26:22Z" finished-at="2018-03-06T16:26:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.crm.endtoendtest.EndToEndTest -->
+      <class name="com.crm.organizationtest.OrganizationTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.crm.organizationtest.OrganizationTest@13c78c0b]" name="configBC" is-config="true" duration-ms="4184" started-at="2018-03-06T16:26:22Z" finished-at="2018-03-06T16:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.organizationtest.OrganizationTest@13c78c0b]" name="configBM" is-config="true" duration-ms="3199" started-at="2018-03-06T16:26:27Z" finished-at="2018-03-06T16:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createOrganizationTest()[pri:0, instance:com.crm.organizationtest.OrganizationTest@13c78c0b]" name="createOrganizationTest" duration-ms="11756" started-at="2018-03-06T16:26:30Z" finished-at="2018-03-06T16:26:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[read test data from excel]]>
+            </line>
+            <line>
+              <![CDATA[navigate to organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to save]]>
+            </line>
+            <line>
+              <![CDATA[navigate to organization information]]>
+            </line>
+            <line>
+              <![CDATA[verifying organization name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganizationTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.organizationtest.OrganizationTest@13c78c0b]" name="configAM" is-config="true" duration-ms="1438" started-at="2018-03-06T16:26:42Z" finished-at="2018-03-06T16:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.organizationtest.OrganizationTest@13c78c0b]" name="configBM" is-config="true" duration-ms="2593" started-at="2018-03-06T16:26:43Z" finished-at="2018-03-06T16:26:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createOrganizationWithOrganizationTypeTest()[pri:0, instance:com.crm.organizationtest.OrganizationTest@13c78c0b]" name="createOrganizationWithOrganizationTypeTest" duration-ms="11430" started-at="2018-03-06T16:26:46Z" finished-at="2018-03-06T16:26:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[read test data from excel]]>
+            </line>
+            <line>
+              <![CDATA[navigate to organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to save]]>
+            </line>
+            <line>
+              <![CDATA[navigate to organization information]]>
+            </line>
+            <line>
+              <![CDATA[verifying org name]]>
+            </line>
+            <line>
+              <![CDATA[verifying org type]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithOrganizationTypeTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.organizationtest.OrganizationTest@13c78c0b]" name="configAM" is-config="true" duration-ms="1403" started-at="2018-03-06T16:26:57Z" finished-at="2018-03-06T16:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.crm.organizationtest.OrganizationTest@13c78c0b]" name="configAC" is-config="true" duration-ms="131" started-at="2018-03-06T16:26:58Z" finished-at="2018-03-06T16:26:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.crm.organizationtest.OrganizationTest -->
+      <class name="com.crm.contacttest.ContactTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="configBC" is-config="true" duration-ms="5951" started-at="2018-03-06T16:23:41Z" finished-at="2018-03-06T16:23:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="configBM" is-config="true" duration-ms="3159" started-at="2018-03-06T16:23:47Z" finished-at="2018-03-06T16:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createContactTest()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="createContactTest" duration-ms="10289" started-at="2018-03-06T16:23:50Z" finished-at="2018-03-06T16:24:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[read test data from excel]]>
+            </line>
+            <line>
+              <![CDATA[navigate to contacts page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create contact page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to save]]>
+            </line>
+            <line>
+              <![CDATA[capture actuval contact name]]>
+            </line>
+            <line>
+              <![CDATA[verifying contact name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="configAM" is-config="true" duration-ms="1292" started-at="2018-03-06T16:24:00Z" finished-at="2018-03-06T16:24:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="configBM" is-config="true" duration-ms="2394" started-at="2018-03-06T16:24:02Z" finished-at="2018-03-06T16:24:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createContactWithImageTest()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="createContactWithImageTest" duration-ms="9817" started-at="2018-03-06T16:24:04Z" finished-at="2018-03-06T16:24:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[read test data from excel]]>
+            </line>
+            <line>
+              <![CDATA[navigate to contacts page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create contact page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to save]]>
+            </line>
+            <line>
+              <![CDATA[capture the data from contactInformation page]]>
+            </line>
+            <line>
+              <![CDATA[verifying contact name]]>
+            </line>
+            <line>
+              <![CDATA[verifying image]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactWithImageTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="configAM" is-config="true" duration-ms="1203" started-at="2018-03-06T16:24:14Z" finished-at="2018-03-06T16:24:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="configBM" is-config="true" duration-ms="2267" started-at="2018-03-06T16:24:15Z" finished-at="2018-03-06T16:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createContactWithOrganizationTest()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="createContactWithOrganizationTest" duration-ms="18729" started-at="2018-03-06T16:24:17Z" finished-at="2018-03-06T16:24:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[read test data from excel]]>
+            </line>
+            <line>
+              <![CDATA[navigate to organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create organization page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to save]]>
+            </line>
+            <line>
+              <![CDATA[navigate to contacts page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to create contact page]]>
+            </line>
+            <line>
+              <![CDATA[navigate to save]]>
+            </line>
+            <line>
+              <![CDATA[capture the data from contactInformation page]]>
+            </line>
+            <line>
+              <![CDATA[verifying contact name]]>
+            </line>
+            <line>
+              <![CDATA[verifying Organization name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrganizationTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="configAM" is-config="true" duration-ms="1227" started-at="2018-03-06T16:24:36Z" finished-at="2018-03-06T16:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.crm.contacttest.ContactTest@7225790e]" name="configAC" is-config="true" duration-ms="112" started-at="2018-03-06T16:24:37Z" finished-at="2018-03-06T16:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.crm.contacttest.ContactTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

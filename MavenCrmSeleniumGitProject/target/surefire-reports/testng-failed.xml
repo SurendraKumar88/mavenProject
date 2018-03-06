@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.crm.contacttest.ContactTest">
+        <methods>
+          <include name="createContactTest"/>
+          <include name="createContactWithOrganizationTest"/>
+          <include name="createContactWithImageTest"/>
+        </methods>
+      </class> <!-- com.crm.contacttest.ContactTest -->
+      <class name="com.crm.endtoendtest.EndToEndTest">
+        <methods>
+          <include name="deleteOrgWhenOrgContainsContact_OpertunityTest"/>
+          <include name="createOpertunityUsingOrgCompaignTest"/>
+        </methods>
+      </class> <!-- com.crm.endtoendtest.EndToEndTest -->
+      <class name="com.crm.organizationtest.OrganizationTest">
+        <methods>
+          <include name="createOrganizationWithOrganizationTypeTest"/>
+          <include name="createOrganizationTest"/>
+        </methods>
+      </class> <!-- com.crm.organizationtest.OrganizationTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

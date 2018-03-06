@@ -1,0 +1,228 @@
+<html>
+<head>
+<title>TestNG:  Command line test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Command line test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>7/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Mar 06 16:23:41 IST 2018</td>
+</tr>
+<tr><td>Total time:</td><td>197 seconds (197677 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.crm.contacttest.ContactTest.createContactTest()'><b>createContactTest</b><br>Test class: com.crm.contacttest.ContactTest<br/>
+<a href="#Output-1567705314" onClick='toggleBox("Output-1567705314", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1567705314" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1567705314">
+read test data from excel<br/>
+navigate to contacts page<br/>
+navigate to create contact page<br/>
+navigate to save<br/>
+capture actuval contact name<br/>
+verifying contact name<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>com.crm.contacttest.ContactTest@7225790e</td></tr>
+<tr>
+<td title='com.crm.contacttest.ContactTest.createContactWithImageTest()'><b>createContactWithImageTest</b><br>Test class: com.crm.contacttest.ContactTest<br/>
+<a href="#Output-487792155" onClick='toggleBox("Output-487792155", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-487792155" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-487792155">
+read test data from excel<br/>
+navigate to contacts page<br/>
+navigate to create contact page<br/>
+navigate to save<br/>
+capture the data from contactInformation page<br/>
+verifying contact name<br/>
+verifying image<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>com.crm.contacttest.ContactTest@7225790e</td></tr>
+<tr>
+<td title='com.crm.contacttest.ContactTest.createContactWithOrganizationTest()'><b>createContactWithOrganizationTest</b><br>Test class: com.crm.contacttest.ContactTest<br/>
+<a href="#Output-2036775591" onClick='toggleBox("Output-2036775591", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2036775591" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2036775591">
+read test data from excel<br/>
+navigate to organization page<br/>
+navigate to create organization page<br/>
+navigate to save<br/>
+navigate to contacts page<br/>
+navigate to create contact page<br/>
+navigate to save<br/>
+capture the data from contactInformation page<br/>
+verifying contact name<br/>
+verifying Organization name<br/>
+</div>
+</td>
+<td></td>
+<td>18</td>
+<td>com.crm.contacttest.ContactTest@7225790e</td></tr>
+<tr>
+<td title='com.crm.endtoendtest.EndToEndTest.createOpertunityUsingOrgCompaignTest()'><b>createOpertunityUsingOrgCompaignTest</b><br>Test class: com.crm.endtoendtest.EndToEndTest<br/>
+<a href="#Output-594858858" onClick='toggleBox("Output-594858858", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-594858858" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-594858858">
+read test data from excel<br/>
+navigate to organization page<br/>
+navigate to create organization page<br/>
+navigate to save<br/>
+navigate to more page<br/>
+navigate campaign page<br/>
+navigate to create campaign<br/>
+navigate to Opportunities name<br/>
+navigate to create opportunities name<br/>
+navigate to opportunities information page<br/>
+verifying organization name<br/>
+verifying Campaign name<br/>
+verifying Opportunities name<br/>
+</div>
+</td>
+<td></td>
+<td>28</td>
+<td>com.crm.endtoendtest.EndToEndTest@2cb4c3ab</td></tr>
+<tr>
+<td title='com.crm.organizationtest.OrganizationTest.createOrganizationTest()'><b>createOrganizationTest</b><br>Test class: com.crm.organizationtest.OrganizationTest<br/>
+<a href="#Output-1197498159" onClick='toggleBox("Output-1197498159", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1197498159" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1197498159">
+read test data from excel<br/>
+navigate to organization page<br/>
+navigate to create organization page<br/>
+navigate to save<br/>
+navigate to organization information<br/>
+verifying organization name<br/>
+</div>
+</td>
+<td></td>
+<td>11</td>
+<td>com.crm.organizationtest.OrganizationTest@13c78c0b</td></tr>
+<tr>
+<td title='com.crm.organizationtest.OrganizationTest.createOrganizationWithOrganizationTypeTest()'><b>createOrganizationWithOrganizationTypeTest</b><br>Test class: com.crm.organizationtest.OrganizationTest<br/>
+<a href="#Output-1011044643" onClick='toggleBox("Output-1011044643", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1011044643" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1011044643">
+read test data from excel<br/>
+navigate to organization page<br/>
+navigate to create organization page<br/>
+navigate to save<br/>
+navigate to organization information<br/>
+verifying org name<br/>
+verifying org type<br/>
+</div>
+</td>
+<td></td>
+<td>11</td>
+<td>com.crm.organizationtest.OrganizationTest@13c78c0b</td></tr>
+<tr>
+<td title='com.crm.endtoendtest.EndToEndTest.deleteOrgWhenOrgContainsContact_OpertunityTest()'><b>deleteOrgWhenOrgContainsContact_OpertunityTest</b><br>Test class: com.crm.endtoendtest.EndToEndTest<br/>
+<a href="#Output-1200546947" onClick='toggleBox("Output-1200546947", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1200546947" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1200546947">
+read test data from excel<br/>
+navigate to organization page<br/>
+navigate to create organization page<br/>
+navigate to save<br/>
+navigate to contact page<br/>
+navigate to create new contact page<br/>
+navigate to save<br/>
+navigate to opportunity page<br/>
+navigate to create new opportunity page<br/>
+navigate to save with organization page<br/>
+navigate to organization page for delete<br/>
+navigate to search organization<br/>
+navigate to click on organization name<br/>
+navigate to organization information page<br/>
+navigate to contact page<br/>
+navigate to search contact name<br/>
+navigate to click on contact name<br/>
+navigate to contact information page<br/>
+veritying organization name in contacts<br/>
+navigate to opportunity page<br/>
+navigate to search opportunity name<br/>
+navigate to verity opportunity name<br/>
+verifying opportunity name<br/>
+</div>
+</td>
+<td></td>
+<td>64</td>
+<td>com.crm.endtoendtest.EndToEndTest@2cb4c3ab</td></tr>
+</table><p>
+</body>
+</html>

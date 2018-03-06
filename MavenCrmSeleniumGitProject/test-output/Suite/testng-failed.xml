@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="browser" value="chrome"/>
+  <test name="TR-chrome(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="SmokeTest"/>
+        <include name="RegressionTest"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.crm.contacttest.ContactTest">
+        <methods>
+          <include name="configBC"/>
+          <include name="configBC"/>
+          <include name="configAM"/>
+          <include name="configBM"/>
+          <include name="configBM"/>
+          <include name="createContactTest"/>
+          <include name="configAC"/>
+          <include name="configAC"/>
+        </methods>
+      </class> <!-- com.crm.contacttest.ContactTest -->
+    </classes>
+  </test> <!-- TR-chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

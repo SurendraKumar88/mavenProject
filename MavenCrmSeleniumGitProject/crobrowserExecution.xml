@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="2">
+
+	<groups>
+		<run>
+			<include name="SmokeTest"/>
+			<include name="RegressionTest"/>
+		</run>
+	</groups>
+
+  <test name="TR-firefox">
+   <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.crm.contacttest.ContactTest"/>
+      <class name="com.crm.endtoendtest.EndToEndTest"/>	
+      <class name="com.crm.organizationtest.OrganizationTest"/>
+    </classes>
+  </test> 
+  
+  <test name="TR-chrome">
+  	<parameter name="browser" value="chrome"/>
+  		<classes>
+  		    <class name="com.crm.contacttest.ContactTest"/>
+  	 		 <class name="com.crm.endtoendtest.EndToEndTest"/>
+     		 <class name="com.crm.organizationtest.OrganizationTest"/>
+  		</classes>
+  </test>
+</suite> <!-- Suite -->
