@@ -1,4 +1,4 @@
-package com.crm.endtoendtest;
+/*package com.crm.endtoendtest;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.PageFactory;
@@ -176,3 +176,4 @@ public class EndToEndTest extends BaseClass{
 		sAssert.assertAll();
 	}
 }
+*/

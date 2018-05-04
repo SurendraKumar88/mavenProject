@@ -1,4 +1,4 @@
-package com.crm.organizationtest;
+/*package com.crm.organizationtest;
 
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
@@ -76,3 +76,4 @@ public class OrganizationTest extends BaseClass{
 	}
 
 }
+*/

@@ -42,7 +42,7 @@ public class ContactTest extends BaseClass{
 		
 		CommonUtils.setExcelData("testData", 1, 13, "Pass");
 	}
-	
+/*	
 	@Test(groups="RegressionTest")
 	public void createContactWithImageTest() throws Throwable{
 		
@@ -129,5 +129,5 @@ public class ContactTest extends BaseClass{
 		CommonUtils.setExcelData("testData", 2, 13, "Pass");
 		sAssert.assertAll();
 	}
-
+*/
 }
